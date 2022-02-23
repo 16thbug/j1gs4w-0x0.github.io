@@ -511,7 +511,7 @@
     "I am a Student",
     "I am a CTF Player",
     "a Cybersec Enthusiast",
-    "i am a Weeb",
+    "i am a Programmer",
     "I am a Gamer",
   ]
   
